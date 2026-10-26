@@ -1,0 +1,22 @@
+[
+  {
+    "id": "sample-high-risk",
+    "name": "Suspicious sample",
+    "description": "Congratulations! You are guaranteed selection for our internship. Pay a registration fee to secure your position today. Act now, limited seats available. Earn huge income with no experience. Send your bank OTP to complete verification.",
+    "company_name": "Example Hiring Group",
+    "company_website": "https://example.com",
+    "recruiter_email": "recruiter@example.net",
+    "stipend": "50000 per month",
+    "payment_requested": true
+  },
+  {
+    "id": "sample-lower-risk",
+    "name": "More detailed sample",
+    "description": "We are inviting applications for a software development internship. Interns will work with a mentor to build and test Python features, review code, document tasks, and participate in weekly project meetings. The internship lasts eight weeks. Applicants will be evaluated through an interview and a small technical task. Selected interns will receive written details about the stipend and working hours.",
+    "company_name": "Example Technologies",
+    "company_website": "https://example.com",
+    "recruiter_email": "careers@example.com",
+    "stipend": "As stated in offer letter",
+    "payment_requested": false
+  }
+]
